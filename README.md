@@ -1,5 +1,5 @@
 # OneRingToKillThemAll
-Jeu de combat réalisé dans l'UE USRS45 au CNAM-ENJMIN avec Diane AVEILLAN et Thibault VINCENT (Groupe F)
+Jeu de combat réalisé dans l'UE USRS45 (C# de base, sans POO) au CNAM-ENJMIN avec Diane AVEILLAN et Thibault VINCENT (Groupe F)
 
 -----------------------------ONE RING TO KILL THEM ALL---------------------------------------------
 
